@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="WaveView">
+        <attr name="wave_color" format="color" />
+        <attr name="wave_circle_color" format="color" />
+        <attr name="wave_ring_color" format="color" />
+        <attr name="progress" format="integer" />
+    </declare-styleable>
+    
+    
+    <declare-styleable name="Themes">
+        <attr name="CircleWaveViewStyle" format="reference" />
+    </declare-styleable>
+
+</resources>

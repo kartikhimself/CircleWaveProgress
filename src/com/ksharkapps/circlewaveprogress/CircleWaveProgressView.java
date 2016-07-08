@@ -1,9 +1,4 @@
-/**
- * 
- */
 package com.ksharkapps.circlewaveprogress;
-
-
 
 import android.content.Context;
 import android.graphics.Canvas;

@@ -1,8 +1,5 @@
 package com.ksharkapps.circlewaveprogress;
 
-
-
-
 import android.annotation.SuppressLint;
 import android.app.ActionBar;
 import android.app.Activity;
